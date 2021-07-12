@@ -9,8 +9,9 @@ import { auth } from "./firebase";
 import { useStateValue } from "./StateProvider";
 
 function App() {
+	// eslint-disable-next-line
 	const [{}, dispatch] = useStateValue();
-
+    
 	useEffect(() => {
 		// will only run once when the app component loads...
 
@@ -32,6 +33,7 @@ function App() {
 				});
 			}
 		});
+		// eslint-disable-next-line
 	}, []);
 	return (
 		<Router>
