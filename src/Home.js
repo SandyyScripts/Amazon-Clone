@@ -34,10 +34,10 @@ function Home() {
 				/>
 				<Product
 					id="49538094"
-					title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
-					price={699}
+					title="Dell Inspiron D-200 256 SSD Windows 10 Edition"
+					price={62999}
 					rating={5}
-					image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+					image="https://techviral.net/wp-content/uploads/2017/11/Best-Laptop-to-Buy-in-November-20171.jpg"
 				/>
 				<Product
 					id="3254354345"
