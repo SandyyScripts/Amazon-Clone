@@ -1,5 +1,7 @@
 This is a simple Amazon Clone website made by using REACT and have user authentication and deployment with the help of firebase.
 
+It's live and working on: https://amclone-df881.web.app/
+
 
 ![image](https://user-images.githubusercontent.com/64160530/125284249-d9fe6880-e336-11eb-9bf2-e77ff0cff266.png)
 
